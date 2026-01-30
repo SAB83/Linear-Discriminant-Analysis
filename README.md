@@ -7,3 +7,9 @@ It:
 - Recodes species into **two classes**: Canada Goose vs Cackling Goose
 - Trains an LDA model and evaluates accuracy on a test split
 - Saves plots and (optionally) an interactive Leaflet map
+
+Outputs
+outputs/figures/actual_species.png
+outputs/figures/predicted_species.png
+outputs/figures/lda_boundary.png
+outputs/maps/egg_map.html
